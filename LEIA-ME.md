@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichelOS-Dev
+👋 **Hi, I’m Michel Oliveira**
 - 👀 I’m interested in Develop my knowledge in programming
 - 🌱 I’m currently developing some projects, without focusing on a specific programming language.However, I have an interest in the web area, an area that I intend to focus on more.
 - 💞️ I’m looking to collaborate on company projects and even adding to society with updates and new software products.
